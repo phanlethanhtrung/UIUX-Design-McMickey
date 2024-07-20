@@ -1,0 +1,612 @@
+.paymenta-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-600);
+  width: 1024px;
+  height: 693px;
+}
+.icon-profile-blue-11 {
+  position: absolute;
+  top: 0;
+  left: 540px;
+  width: 27px;
+  height: 26px;
+  object-fit: cover;
+}
+.frame-child,
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 1.5px;
+  left: 51.5px;
+  width: 1px;
+  height: 25px;
+}
+.frame-inner,
+.frame-item {
+  top: 4.5px;
+  left: 817px;
+  height: 24.5px;
+}
+.frame-inner {
+  left: 722px;
+}
+.english5,
+.ting-vit5 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+}
+.ting-vit5 {
+  left: 57px;
+}
+.phan-l-thanh4 {
+  left: 575px;
+  font-weight: 600;
+}
+.phan-l-thanh4,
+.sign-out4,
+.track-my-order5 {
+  position: absolute;
+  top: 5px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+}
+.sign-out4 {
+  left: 742px;
+  cursor: pointer;
+}
+.track-my-order5 {
+  left: 825px;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 926px;
+  height: 29px;
+  overflow: hidden;
+}
+.shape-with-text21 {
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-1000);
+  width: 752px;
+  height: 55px;
+}
+.frame-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs) 0 0 var(--br-8xs);
+  background-color: var(--primary-color);
+  width: 186px;
+  height: 55px;
+}
+.screen-shot-2019-02-26-at-100-icon5 {
+  position: absolute;
+  top: 7px;
+  left: 11px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.frame-child2 {
+  position: absolute;
+  top: 37.7px;
+  left: 577.1px;
+  width: 52.9px;
+  height: 19.5px;
+  opacity: 0.2;
+}
+.frame-child3,
+.frame-child4,
+.frame-child5 {
+  position: absolute;
+  top: -0.5px;
+  left: 379.5px;
+  width: 1px;
+  height: 56px;
+}
+.frame-child4,
+.frame-child5 {
+  left: 541.5px;
+}
+.frame-child5 {
+  left: 752.5px;
+}
+.mcdelivery5,
+.menu10,
+.my-account14,
+.offer5,
+.support10 {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+}
+.menu10 {
+  top: 17px;
+  left: 214px;
+  color: var(--primary-color2);
+  width: 132px;
+}
+.mcdelivery5,
+.my-account14,
+.offer5,
+.support10 {
+  cursor: pointer;
+}
+.mcdelivery5 {
+  top: 17px;
+  left: 31px;
+  font-size: var(--font-size-5xl);
+  width: 163px;
+}
+.my-account14,
+.offer5,
+.support10 {
+  top: 15px;
+  left: 395px;
+  width: 132px;
+}
+.my-account14,
+.support10 {
+  top: 17px;
+  left: 567px;
+  width: 160px;
+}
+.support10 {
+  top: 15px;
+  left: 753px;
+}
+.shape-with-text-group {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  width: 926px;
+  height: 57.2px;
+  font-size: var(--font-size-8xl);
+  color: var(--color-white);
+  font-family: var(--font-inria-sans);
+}
+.frame-parent {
+  position: absolute;
+  top: 14px;
+  left: 46px;
+  width: 926px;
+  height: 96.2px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.paymenta-item {
+  position: absolute;
+  top: 124px;
+  left: 544px;
+  background-color: var(--color-white);
+  width: 427px;
+  height: 36px;
+}
+.paymenta-inner {
+  position: absolute;
+  top: 131.2px;
+  left: 629.8px;
+  width: 1px;
+  height: 22.1px;
+}
+.easy-as-1-2-3 {
+  left: 556px;
+  color: var(--color-gray-800);
+}
+.checkout,
+.customize-order,
+.delivery-address,
+.easy-as-1-2-3 {
+  position: absolute;
+  top: 129px;
+  font-size: var(--font-size-smi);
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  text-align: center;
+}
+.delivery-address {
+  left: 637px;
+  color: var(--color-gray-800);
+}
+.checkout,
+.customize-order {
+  left: 781px;
+}
+.checkout {
+  left: 891px;
+  color: var(--color-gray-800);
+}
+.paymenta-child1,
+.paymenta-child2 {
+  position: absolute;
+  top: 167px;
+  left: 683px;
+  background-color: var(--color-white);
+  width: 288px;
+  height: 462px;
+}
+.paymenta-child2 {
+  top: 537px;
+  left: 698px;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-color);
+  width: 258px;
+  height: 44px;
+  cursor: pointer;
+}
+.paymenta-child3,
+.paymenta-child4,
+.paymenta-child5,
+.paymenta-child6 {
+  position: absolute;
+  top: 214.5px;
+  left: 683px;
+  width: 288px;
+  height: 1px;
+}
+.paymenta-child4,
+.paymenta-child5,
+.paymenta-child6 {
+  top: 356.5px;
+}
+.paymenta-child5,
+.paymenta-child6 {
+  top: 412.5px;
+}
+.paymenta-child6 {
+  top: 294.5px;
+}
+.deliver-to,
+.edit,
+.my-order {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+}
+.my-order {
+  top: 175px;
+  left: 770px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 130px;
+  height: 23px;
+  -webkit-text-stroke: 0.3px #000;
+}
+.deliver-to,
+.edit {
+  top: 223px;
+  left: 697px;
+}
+.edit {
+  top: 243px;
+}
+.contact-number1,
+.edit1,
+.edit2,
+.estimated-delivery-time1 {
+  position: absolute;
+  top: 380px;
+  left: 698px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+}
+.contact-number1,
+.edit2,
+.estimated-delivery-time1 {
+  top: 322px;
+}
+.contact-number1,
+.estimated-delivery-time1 {
+  top: 303px;
+  left: 697px;
+}
+.estimated-delivery-time1 {
+  top: 361px;
+}
+.sub-total {
+  margin: 0;
+}
+.sub-total-delivery-container,
+.total-vnd-204000 {
+  position: absolute;
+  top: 422px;
+  left: 697px;
+  letter-spacing: -0.01em;
+  line-height: 26px;
+}
+.total-vnd-204000 {
+  top: 505px;
+  left: 693px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 263px;
+}
+.div4,
+.ng-bnh-gi-container1 {
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  text-align: right;
+}
+.ng-bnh-gi-container1 {
+  position: absolute;
+  top: 219px;
+  left: 770px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 190px;
+}
+.div4 {
+  top: 302px;
+  left: 891px;
+}
+.div4,
+.div5,
+.vnd-189000 {
+  position: absolute;
+  letter-spacing: -0.01em;
+}
+.div5 {
+  top: 384px;
+  left: 858px;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  text-align: right;
+}
+.vnd-189000 {
+  top: 422px;
+  left: 885px;
+}
+.vnd-0,
+.vnd-15000,
+.vnd-189000 {
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  text-align: right;
+}
+.vnd-15000 {
+  position: absolute;
+  top: 474px;
+  left: 894px;
+  letter-spacing: -0.01em;
+}
+.vnd-0 {
+  top: 447px;
+  left: 923px;
+}
+.check-out,
+.review-and-confirm,
+.vnd-0 {
+  position: absolute;
+  letter-spacing: -0.01em;
+}
+.check-out {
+  top: 544px;
+  left: 765px;
+  font-size: var(--font-size-11xl);
+  line-height: 30px;
+  color: var(--color-white);
+  text-align: center;
+}
+.review-and-confirm {
+  top: 136px;
+  left: 42px;
+  font-size: var(--font-size-xl);
+  line-height: 24px;
+  font-family: var(--font-inria-sans);
+  text-align: right;
+}
+.paymenta-child7,
+.paymenta-child8,
+.paymenta-child9 {
+  position: absolute;
+  top: 179px;
+  left: 42px;
+  background-color: var(--color-white);
+  width: 625px;
+  height: 48px;
+}
+.paymenta-child8,
+.paymenta-child9 {
+  top: 236px;
+  height: 210px;
+}
+.paymenta-child9 {
+  top: 458px;
+  height: 110px;
+}
+.eg-next-to-vivo-city-distric {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 589.5px;
+  height: 28.5px;
+}
+.my-order1 {
+  top: 191px;
+  left: 60px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+  width: 117px;
+  height: 23px;
+}
+.b,
+.combo-2b-1,
+.my-order1 {
+  position: absolute;
+}
+.combo-2b-1 {
+  top: 251px;
+  left: 94px;
+  width: 240px;
+  height: 180px;
+  object-fit: cover;
+}
+.b {
+  top: 271px;
+  left: 60px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: var(--font-inria-sans);
+  color: var(--primary-color);
+}
+.pcs-chicken-mcnuggets {
+  margin-bottom: 0;
+}
+.pcs-chicken-mcnuggets-bbq-sauc {
+  margin: 0;
+  padding-left: var(--padding-mini);
+}
+.combo-for-2-container,
+.vnd-1890001 {
+  position: absolute;
+  letter-spacing: -0.01em;
+}
+.combo-for-2-container {
+  top: 272px;
+  left: 349px;
+  font-size: var(--font-inherit);
+  line-height: 15px;
+  font-family: var(--font-inherit);
+}
+.vnd-1890001 {
+  top: 271px;
+  left: 533px;
+  font-size: var(--font-size-6xl);
+  line-height: 26px;
+  color: var(--primary-color);
+  display: inline-block;
+  width: 126px;
+}
+.image-10-icon,
+.image-11-icon {
+  position: absolute;
+  top: 407px;
+  left: 354px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.image-11-icon {
+  left: 378px;
+}
+.delivery-instructions-to,
+.please-note-that {
+  position: absolute;
+  left: 60px;
+  letter-spacing: -0.01em;
+}
+.delivery-instructions-to {
+  top: 468px;
+  font-size: var(--font-size-6xl);
+  line-height: 26px;
+}
+.please-note-that {
+  top: 536px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-silver-100);
+}
+.add-more-items {
+  color: var(--color-black);
+}
+.add-more-items-container {
+  position: absolute;
+  top: 587px;
+  left: 770px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--primary-color);
+}
+.shape-with-text22 {
+  position: relative;
+  background-color: var(--color-dimgray-100);
+  width: 1025px;
+  height: 428px;
+}
+.menu11 {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.menu-promotions-combo-container5 {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.frame1,
+.frame2,
+.frame3,
+.frame4,
+.frame5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 197px;
+  height: 407px;
+  overflow: hidden;
+}
+.frame1,
+.frame3,
+.frame4,
+.frame5 {
+  left: 307px;
+  width: 115px;
+  height: 191px;
+}
+.frame1,
+.frame4,
+.frame5 {
+  left: 755px;
+  width: 82px;
+  height: 119px;
+}
+.frame1,
+.frame5 {
+  left: 531px;
+  width: 136px;
+  height: 191px;
+}
+.frame1 {
+  left: 56px;
+  width: 837px;
+  height: 407px;
+}
+.shape-with-text-container {
+  position: absolute;
+  top: 656px;
+  left: 0;
+  width: 1025px;
+  height: 428px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-700);
+  font-family: var(--font-inter);
+}
+.paymenta {
+  position: relative;
+  width: 100%;
+  height: 1084px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-fresca);
+}

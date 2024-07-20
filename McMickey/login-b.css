@@ -1,0 +1,182 @@
+.loginb-child,
+.loginb-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 780px;
+  height: 570px;
+}
+.loginb-item {
+  top: 311px;
+  left: 216px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 15px;
+  height: 14px;
+  opacity: 0.6;
+}
+.forgot-password1,
+.remember-me {
+  position: absolute;
+  top: 308px;
+  left: 226px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-weight: 300;
+  display: inline-block;
+  width: 112px;
+  height: 34px;
+}
+.forgot-password1 {
+  top: 309px;
+  left: 427px;
+  text-align: right;
+  width: 139px;
+  cursor: pointer;
+}
+.loginb-inner {
+  position: absolute;
+  top: 187px;
+  left: 219px;
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 347px;
+  height: 48px;
+}
+.email-on-mcmickeys {
+  position: absolute;
+  top: 201px;
+  left: 206px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.loginb-child1,
+.loginb-child2 {
+  position: absolute;
+  left: 219px;
+  width: 347px;
+}
+.loginb-child1 {
+  top: 254px;
+  background-color: var(--color-gray-700);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  height: 47px;
+}
+.loginb-child2 {
+  top: 412px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-200);
+  height: 56px;
+  cursor: pointer;
+}
+.span7 {
+  font-family: var(--font-inter);
+}
+.new-access-to-container1 {
+  position: absolute;
+  top: 85px;
+  left: 170px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+  width: 436px;
+  height: 30px;
+  -webkit-text-stroke: 0.3px #000;
+  font-family: var(--font-fresca);
+}
+.sign-in-with1 {
+  top: 137px;
+  left: 177px;
+  font-size: var(--font-size-mini);
+  width: 435px;
+  height: 28px;
+}
+.password1,
+.sign-in-with1,
+.to-enjoy-member {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+}
+.password1 {
+  top: 265px;
+  left: 223px;
+  color: var(--color-gray-200);
+  width: 77px;
+  height: 34px;
+}
+.to-enjoy-member {
+  top: 478px;
+  left: 219px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inria-sans);
+  width: 347px;
+  height: 33px;
+}
+.create-an-account2,
+.loginb-child3 {
+  position: absolute;
+  left: 219px;
+  width: 347px;
+  cursor: pointer;
+}
+.create-an-account2 {
+  top: 418px;
+  font-size: var(--font-size-4xl);
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: var(--font-inria-sans);
+  display: inline-block;
+  height: 33px;
+  -webkit-text-stroke: 0.3px #000;
+}
+.loginb-child3 {
+  top: 351px;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-color);
+  height: 48px;
+}
+.in-less-than1,
+.sign-in3 {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: var(--font-inria-sans);
+  display: inline-block;
+  cursor: pointer;
+}
+.sign-in3 {
+  top: 365px;
+  left: 227px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  width: 323px;
+  height: 34px;
+}
+.in-less-than1 {
+  top: 440px;
+  left: 215px;
+  width: 346px;
+  height: 26px;
+}
+.loginb {
+  position: relative;
+  width: 780px;
+  height: 570px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./login-a.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fresca:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="logina">
+      <div class="logina-child"></div>
+      <div class="logina-item"></div>
+      <div class="logina-inner" id="popuprectangle2"></div>
+      <div class="a" id="popupaText">A</div>
+      <img class="logina-child1" alt="" src="./public/vector-122.svg" />
+
+      <img class="logina-child2" alt="" src="./public/vector-145.svg" />
+
+      <img class="logina-child3" alt="" src="./public/rectangle-21@2x.png" />
+
+      <div class="get-on-all">
+        Get on all McDonald's digital services with Single Login
+      </div>
+      <div class="sign-in-with">SIGN IN WITH MCMICKEY’S APP</div>
+      <div class="we-have-upgraded-container">
+        <p class="we-have-upgraded">We have upgraded our platforms.</p>
+        <p class="we-have-upgraded">
+          Now, you can sign in to McDelivery™ too with your McDonald's app
+          account.
+        </p>
+      </div>
+      <div class="with-single-login-container">
+        <p class="we-have-upgraded">
+          With Single Login, you get to earn loyalty points with every purchase
+        </p>
+        <p class="we-have-upgraded">
+          while enjoying quick access to exclusive offers and promotions.
+        </p>
+      </div>
+      <div class="dont-have-the">DON'T HAVE THE APP?</div>
+      <div class="logina-child4" id="popuprectangle3"></div>
+      <div class="create-an-account1" id="popupcREATEANACCOUNT">
+        CREATE AN ACCOUNT
+      </div>
+      <div class="in-less-than" id="popupiNLESSTHAN">
+        IN LESS THAN 2 MINUTES
+      </div>
+    </div>
+
+    <script>
+      var popuprectangle2 = document.getElementById("popuprectangle2");
+      if (popuprectangle2) {
+        popuprectangle2.addEventListener("click", function (e) {
+          window.location.href = "./admin.html";
+        });
+      }
+      
+      var popupaText = document.getElementById("popupaText");
+      if (popupaText) {
+        popupaText.addEventListener("click", function (e) {
+          window.location.href = "./admin.html";
+        });
+      }
+      
+      var popuprectangle3 = document.getElementById("popuprectangle3");
+      if (popuprectangle3) {
+        popuprectangle3.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+      
+      var popupcREATEANACCOUNT = document.getElementById("popupcREATEANACCOUNT");
+      if (popupcREATEANACCOUNT) {
+        popupcREATEANACCOUNT.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+      
+      var popupiNLESSTHAN = document.getElementById("popupiNLESSTHAN");
+      if (popupiNLESSTHAN) {
+        popupiNLESSTHAN.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+      </script>
+  </body>
+</html>

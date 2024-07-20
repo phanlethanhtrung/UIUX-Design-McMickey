@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./login-b.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fresca:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="loginb">
+      <div class="loginb-child"></div>
+      <div class="loginb-item"></div>
+      <div class="remember-me">Remember me</div>
+      <div class="forgot-password1" id="popupforgotPasswordText">
+        Forgot Password?
+      </div>
+      <div class="loginb-inner"></div>
+      <div class="email-on-mcmickeys">Email on McMickey’s App</div>
+      <div class="loginb-child1"></div>
+      <div class="loginb-child2" id="popuprectangle4"></div>
+      <div class="new-access-to-container1">
+        <span>NEW ACCESS to McMickey Delivery</span>
+        <span class="span7">™</span>
+      </div>
+      <div class="sign-in-with1">
+        Sign in with your McDonald's App account to start your order
+      </div>
+      <div class="password1">Password</div>
+      <div class="to-enjoy-member">To Enjoy Member Benefits</div>
+      <div class="create-an-account2" id="popupcREATEANACCOUNT">
+        CREATE AN ACCOUNT
+      </div>
+      <div class="loginb-child3" id="popuprectangle5"></div>
+      <div class="sign-in3" id="popupsIGNINText">SIGN IN</div>
+      <div class="in-less-than1" id="popupiNLESSTHAN">
+        IN LESS THAN 2 MINUTES
+      </div>
+    </div>
+
+    <script>
+      var popupforgotPasswordText = document.getElementById(
+        "popupforgotPasswordText"
+      );
+      if (popupforgotPasswordText) {
+        popupforgotPasswordText.addEventListener("click", function (e) {
+          window.location.href = "./forgot-a.html";
+        });
+      }
+      
+      var popuprectangle4 = document.getElementById("popuprectangle4");
+      if (popuprectangle4) {
+        popuprectangle4.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+      
+      var popupcREATEANACCOUNT = document.getElementById("popupcREATEANACCOUNT");
+      if (popupcREATEANACCOUNT) {
+        popupcREATEANACCOUNT.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+      
+      var popuprectangle5 = document.getElementById("popuprectangle5");
+      if (popuprectangle5) {
+        popuprectangle5.addEventListener("click", function (e) {
+          window.location.href = "./mc-delivery-logined.html";
+        });
+      }
+      
+      var popupsIGNINText = document.getElementById("popupsIGNINText");
+      if (popupsIGNINText) {
+        popupsIGNINText.addEventListener("click", function (e) {
+          window.location.href = "./mc-delivery-logined.html";
+        });
+      }
+      
+      var popupiNLESSTHAN = document.getElementById("popupiNLESSTHAN");
+      if (popupiNLESSTHAN) {
+        popupiNLESSTHAN.addEventListener("click", function (e) {
+          window.location.href = "./register.html";
+        });
+      }
+      </script>
+  </body>
+</html>
